@@ -7,9 +7,8 @@
 - 🏆 AWS Certified Solutions Architect – Associate
 - 🏆 AWS Certified Security – Specialty
 - 🏆 HashiCorp Certified: Terraform Associate (003)
-- 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
 - ⚡ Fun fact: I love to read and help others
-- 📫 How to reach me **meet.muhammadmohsin@gmail.com**
+- 📫 How to reach me **imohsinsheikhani@gmail.com**
 
 <h2><i>🏆 Certifications</i></h2>
 <br />
