@@ -42,7 +42,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center' width="150">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170836.png" >
+        <img src="https://images.freeimages.com/vme/images/2/8/284731/postgresql_logo_preview?h=350" >
     </td>
     <td align='center' width="150">
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
