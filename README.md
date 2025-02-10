@@ -10,13 +10,7 @@
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **imohsinsheikhani@gmail.com**
 
-<h2><i>🏆 Certifications</i></h2>
-<br />
-<div style="display: flex; justify-content: center; margin: 0 auto;">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="250" width="250" />
-    <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" height="250" width="250" />
-    <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height="250" width="250" />
-</div>
+
 <br />
 
 <h2><i>💻 Tech Stack</i></h2>
@@ -99,7 +93,9 @@
 <p>
 ## Contribution Graph
 
-[![Bugattie's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bugattie&theme=xcode)](https://github.com/bugattie)
+
+[![Mohsin GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsinsheikhani&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </p>
 
@@ -107,8 +103,8 @@
 
 <p align="center">
 <a href="https://github.com/bugattie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bugattie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bugattie&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinsheikhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohsinsheikhani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bugattie&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinsheikhani&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
