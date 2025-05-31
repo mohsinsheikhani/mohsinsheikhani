@@ -20,7 +20,7 @@
 
 <br />
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2>💻 Tech Stack</h2>
 
 <a href="" target="_blank" title="Amazon Web Services (AWS)" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -29,16 +29,12 @@
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
-<p>
-## Contribution Graph
-
+<h2>GitHub Activity Graph</h2>
 
 [![Mohsin GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsinsheikhani&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-</p>
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<h2>GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/bugattie">
