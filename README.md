@@ -1,14 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Mohsin</h1>
-<h3 align="center">A passionate AWS Solutions Architect</h3>
+<h1 align="center">Hi, I’m Mohsin</h1>
+<h3 align="center">AWS Cloud Architect & Engineer</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
+<h4>What I do</h4>
+<ul>
+  <li>Containerized workloads (ECS) & serverless deep dive</li>
+  <li>Event-driven architectures and automation</li>
+  <li>Cloud security best practices from day one</li>
+  <li>Infrastructure as Code (Terraform, AWS CDK)</li>
+  <li>Cost optimization and operational efficiency</li>
+  <li>Currently exploring GenAI capabilities with AWS Bedrock agents and SageMaker to build smarter cloud systems</li>
+</ul>
 
-- 🏆 AWS Certified Cloud Practitioner
-- 🏆 AWS Certified Solutions Architect – Associate
-- 🏆 AWS Certified Security – Specialty
-- 🏆 HashiCorp Certified: Terraform Associate (003)
-- ⚡ Fun fact: I love to read and help others
-- 📫 How to reach me **imohsinsheikhani@gmail.com**
+<h4>About me</h4>
+<ul>
+  <li>📚 Lifelong learner who loves reading and helping others grow</li>
+  <li>📫 Reach out anytime: <strong>imohsinsheikhani@gmail.com</strong></li>
+</ul>
 
 
 <br />
