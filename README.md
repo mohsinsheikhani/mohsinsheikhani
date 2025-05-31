@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Mohsin</h1>
 <h3 align="center">AWS Cloud Architect & Engineer</h3>
 
-<h4>What I do</h4>
+<h4>My area of focus:</h4>
 <ul>
   <li>Containerized workloads (ECS) & serverless deep dive</li>
   <li>Event-driven architectures and automation</li>
@@ -13,7 +13,7 @@
 
 <h4>About me</h4>
 <ul>
-  <li>📚 Lifelong learner who loves reading and helping others grow</li>
+  <li>📚 Lifelong learner who loves reading, playing cricket and helping others grow</li>
   <li>📫 Reach out anytime: <strong>imohsinsheikhani@gmail.com</strong></li>
 </ul>
 
@@ -24,41 +24,19 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+  <td align='center' width="150">
+        <img src="https://images.freeimages.com/vme/images/2/8/284731/postgresql_logo_preview?h=350" >
     </td>
     <td align="center" width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="150">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" width="100">
-    </td>
-    <td align='center' width="150">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-</tr>
-
-<tr>
-    <td align='center' width="150">
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
-    </td>
-    <td align='center' width="150">
+  <td align='center' width="150">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-    <td align='center' width="150">
-        <img src="https://images.freeimages.com/vme/images/2/8/284731/postgresql_logo_preview?h=350" >
-    </td>
-    <td align='center' width="150">
-        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
-    </td>
-    <td align='center' width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="60">
-    </td>
-    
-</tr>   
+</tr> 
 </table>
 
 
