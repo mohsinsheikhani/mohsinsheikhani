@@ -17,7 +17,6 @@
   <li>📫 Reach out anytime: <strong>imohsinsheikhani@gmail.com</strong></li>
 </ul>
 
-
 <br />
 
 <h2>💻 Tech Stack</h2>
@@ -27,6 +26,12 @@
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
+
+<h4>My Recent Articles</h4>
+<ul>
+  <li>📚 <a href="https://dev.to/mohsinsheikhani/a-practical-guide-to-mlops-on-aws-streaming-data-ingestion-with-kinesis-firehose-phase-01-1bi7">A Practical Guide to MLOps on AWS: Streaming Data Ingestion with Kinesis Firehose (Phase 01)</a></li>
+  <li>📫 Reach out anytime: <strong>imohsinsheikhani@gmail.com</strong></li>
+</ul>
 
 
 <h2>GitHub Activity Graph</h2>
