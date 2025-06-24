@@ -36,10 +36,3 @@
 <h2>GitHub Activity Graph</h2>
 
 [![Mohsin GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsinsheikhani&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<h2>GitHub Analytics</h2>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinsheikhani&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
