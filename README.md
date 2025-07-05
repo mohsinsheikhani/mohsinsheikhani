@@ -8,7 +8,7 @@
   <li>Cloud security best practices from day one</li>
   <li>Infrastructure as Code (Terraform, AWS CDK)</li>
   <li>Cost optimization and operational efficiency</li>
-  <li>Currently exploring GenAI capabilities with AWS Bedrock agents and SageMaker to build smarter cloud systems</li>
+  <li>Currently exploring GenAI capabilities with AWS Bedrock agents, MCP and SageMaker to build smarter cloud systems</li>
 </ul>
 
 <h4>About me</h4>
