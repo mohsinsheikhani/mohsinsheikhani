@@ -30,6 +30,8 @@
 <h2>📚 My Recent Articles</h2>
 <ul>
   <li>A Practical Guide to MLOps on AWS: Streaming Data Ingestion with Kinesis Firehose <a href="https://dev.to/mohsinsheikhani/a-practical-guide-to-mlops-on-aws-streaming-data-ingestion-with-kinesis-firehose-phase-01-1bi7">(Phase 01)</a></li>
+  <li>A Practical Guide to MLOps on AWS: Transforming Raw Data into AI-Ready Datasets with AWS Glue <a href="https://dev.to/mohsinsheikhani/a-practical-guide-to-mlops-on-aws-transforming-raw-data-into-ai-ready-datasets-with-aws-glue-4lc9">(Phase 02)</a></li>
+  <li>Hands-On with Amazon Bedrock Agents: Hotel Booking Assistant with Action Groups and Knowledge Bases <a href="https://dev.to/mohsinsheikhani/hands-on-with-amazon-bedrock-agents-hotel-booking-assistant-with-action-groups-and-knowledge-bases-1j">Click Here</a></li>
 </ul>
 
 
