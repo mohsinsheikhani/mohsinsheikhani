@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Mohsin  
+# Hello there, I’m Mohsin  
 
 ### Cloud Software Engineer | Agentic AI Developer  
 
@@ -11,7 +11,7 @@ I specialize in **API-first AI microservices**, **event-driven architectures**, 
 - **Architectures:** Event-driven, API-first, Microservices, Cloud-native  
 
 🤖 **AI & Agents**  
-- Building **agentic workflows** with LangGraph, LangChain, and modern AI SDKs  
+- Building **agentic workflows** with LangGraph, LangChain, Bedrock Agents, OpenAI Agents SDK and modern AI SDKs  
 - Designing **intelligent cloud-native systems** that connect LLMs with real-world tools  
 
 📚 **Currently learning**  
@@ -21,18 +21,6 @@ I specialize in **API-first AI microservices**, **event-driven architectures**, 
 💡 Always curious, always building.  
 If it involves **AI, cloud, and software engineering at scale** — I’m in.  
 
-
-<h4>My area of focus:</h4>
-<ul>
-  <li>Agentic AI applications</li>
-  <li>Serverless architectures</li>
-  <li>Event-driven microservices and automation</li>
-  <li>Containerized workloads (EKS, ECS)</li>
-  <li>Cloud security best practices from day one</li>
-  <li>Infrastructure automation with IaC tools</li>
-  <li>Currently, building expertise with AI Agents and LLMOps practices</li>
-</ul>
-
 <h4>About me</h4>
 <ul>
   <li>📚 Lifelong learner who loves reading, playing cricket and helping others grow</li>
@@ -40,14 +28,6 @@ If it involves **AI, cloud, and software engineering at scale** — I’m in.
 </ul>
 
 <br />
-
-<h2>💻 Tech Stack</h2>
-
-<a href="" target="_blank" title="Amazon Web Services (AWS)" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 
 <h2>📚 My Recent Articles</h2>
 <ul>
