@@ -1,7 +1,11 @@
 <h1>Hello there, I’m Mohsin</h1>
 <h3>Cloud Software Engineer and AI Agent Developer</h3>
 
-I build cutting-edge Agentic AI applications, design API-first AI microservices, and working with event-driven architectures. Passionate about crafting scalable and efficient AI-powered solutions.
+I build cutting-edge Agentic AI applications, cloud-based software applications, systems design, design API-first AI microservices, work with event-driven architectures and containers on ECS and EKS.
+
+I build stuff with
+- AWS Services (AWS Lambda, API Gateway, DynamoDB, RDS, SNS, SQS, EventBridge, ECS, EKS, S3, IAM, VPC)
+- Node.js (TypeScript), Modern Python
 
 <h4>My area of focus:</h4>
 <ul>
