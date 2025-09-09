@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I’m Mohsin</h1>
-<h3 align="center">Cloud Engineer - Serverless-first mindset</h3>
+<h1>Hello there, I’m Mohsin</h1>
+<h3>Cloud Software Engineer and AI Agent Developer</h3>
+
+I build cutting-edge Agentic AI applications, design API-first AI microservices, and working with event-driven architectures. Passionate about crafting scalable and efficient AI-powered solutions.
 
 <h4>My area of focus:</h4>
 <ul>
+  <li>Agentic AI applications</li>
   <li>Serverless architectures</li>
   <li>Event-driven microservices and automation</li>
   <li>Containerized workloads (EKS, ECS)</li>
   <li>Cloud security best practices from day one</li>
-  <li>Infrastructure as Code (Terraform, AWS CDK, Serverless Framework)</li>
-  <li>Performance optimization and operational efficiency</li>
-  <li>Currently exploring GenAI/AgenticAI capabilities with AWS Bedrock, LangChain, RAG pipelines to build smarter cloud systems</li>
+  <li>Infrastructure automation with IaC tools</li>
+  <li>Currently, building expertise with AI Agents and LLMOps practices</li>
 </ul>
 
 <h4>About me</h4>
