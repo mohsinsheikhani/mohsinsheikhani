@@ -6,7 +6,7 @@ I build LLM-powered systems with boring stuff: rigorous evals, retrieval that re
 
 ### 🛠 Stack
 
-- **Agents:** Pydantic AI · LangGraph · OpenAI Agents SDK · Bedrock Agents · MCP · A2A
+- **Agents:** Pydantic AI · LangGraph · OpenAI Agents SDK · Bedrock Agents · MCP · A2A · DSPy
 - **RAG:** CAL · Haystack · Qdrant · hybrid retrieval + reranking · Redis semantic cache · FastAPI
 - **Evals & Obs:** RAGAS · DeepEval · LangSmith · Langfuse · LLM-as-judge (TPR/TNR) · CI eval gates
 - **Cloud:** AWS (Lambda, ECS/EKS, API Gateway, DynamoDB, EventBridge) · Docker · Python · TypeScript
