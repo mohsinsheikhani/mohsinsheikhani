@@ -1,6 +1,6 @@
 # Hello there, I’m Mohsin  
 
-### Cloud Software Engineer | Agentic AI Developer  
+### AI engineer building production agents with rigorous evals
 
 🚀 I design and build **cutting-edge Agentic AI applications** and **cloud-native software systems**.  
 I specialize in **API-first AI microservices**, **event-driven architectures**, and **containerized deployments** on AWS (ECS/EKS).  
