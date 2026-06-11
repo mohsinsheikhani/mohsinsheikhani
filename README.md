@@ -1,6 +1,7 @@
 # Hi, I'm Mohsin 👋
 
 I build AI agents and RAG systems for production.
+
 Most of my time goes into the unglamorous parts: keeping token spend predictable, catching regressions in CI before users do, and making agent failures debuggable instead of mysterious.
 
 **What I work on**
