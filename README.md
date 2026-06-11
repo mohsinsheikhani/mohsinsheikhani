@@ -16,7 +16,7 @@ Most of my time goes into the unglamorous parts: keeping token spend predictable
 
 **Stack**
 
-Python · TypeScript · LangChain · LangGraph · OpenAI SDK · Google ADK
+Python · TypeScript · LangChain · LangGraph · OpenAI SDK · Google ADK ·
 FastAPI · MCP · Redis · DeepEval · RAGAS · Langfuse · AWS  · DSPy
 
 ---
