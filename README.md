@@ -1,22 +1,24 @@
 # Hi, I'm Mohsin 👋
 
-**AI Engineer - RAG & Agents built for production. Evaluated & observable.**
+I build AI agents and RAG systems for production.
+Most of my time goes into the unglamorous parts: keeping token spend predictable, catching regressions in CI before users do, and making agent failures debuggable instead of mysterious.
 
-I build LLM-powered systems with boring stuff: rigorous evals, retrieval that retrieves, agent loops you can debug, and observability you'd trust on a Friday-night page.
+**What I work on**
 
-### 🛠 Stack
+- AI Agents: single-agent, multi-agent, MCP-based, browser agents
+- Evals: failure taxonomies built from reading real traces, deterministic code-graders, LLM-as-judge with measured TPR/TNR, regression gates wired into CI
+- Cost: prompt caching, Redis semantic cache, context audits that cut 30-40% token waste, routing cheap models before expensive ones
+- Agent reliability: retries with backoff, graceful degradation, approval gates before anything irreversible
+- RAG: hybrid search and reranking on Qdrant, faithfulness evals on every prompt change
+- Agent memory: consolidation pipelines, not just vector stores. What to write, what to refuse to write, how facts get superseded, how deletion actually sticks (Mem0, Zep)
+- MCP servers done properly: per-user identity, tool-level permissions, audit logging
+- Multi-tenant isolation: OpenFGA, Postgres RLS, cross-tenant attack tests that run in CI
 
-- **Agents:** Pydantic AI · LangGraph · OpenAI Agents SDK · Bedrock Agents · MCP · A2A · DSPy
-- **RAG:** CAL · Haystack · Qdrant · hybrid retrieval + reranking · Redis semantic cache · FastAPI
-- **Evals & Obs:** RAGAS · DeepEval · LangSmith · Langfuse · LLM-as-judge (TPR/TNR) · CI eval gates
-- **Cloud:** AWS (Lambda, ECS/EKS, API Gateway, DynamoDB, EventBridge) · Docker · Python · TypeScript
+**Stack**
 
-### 📌 What to look at
+Python · TypeScript · LangChain · LangGraph · OpenAI SDK · Google ADK
+FastAPI · MCP · Redis · DeepEval · RAGAS · Langfuse · AWS  · DSPy
 
-👉 **Pinned repos below**, start with my production RAG service.
+---
 
-### 📫 Reach me
-
-- Email: **imohsinsheikhani@gmail.com**
-- Open to: AI Engineer / Forward Deployed Engineer roles.
-- Off-keyboard: reading, cricket, helping others ship.
+🌱 Building agents or RAG systems and hitting the messy parts (evals, memory, cost, multi-tenancy)? Happy to compare notes. DMs open.
