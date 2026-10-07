@@ -6,10 +6,14 @@
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-sheikhani)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imohsinsheikhani@gmail.com)
 ![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=mohsinsheikhani&color=4BA79B&style=flat-square)
+
+</div>
 
 I build AI agents and RAG systems. Before I write any code, I agree with the team on what a good answer looks like, then measure every change against it, offline first, then on live traffic. Seven years of backend and cloud work means I also care about retries, cost, permissions, and what happens when things break.
 
