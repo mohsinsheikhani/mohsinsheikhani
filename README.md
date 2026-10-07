@@ -1,6 +1,10 @@
-# Hi, I'm Mohsin 👋
+# Mohsin Sheikhani | AI Engineer
 
-I build AI agents and RAG systems for production.
+I help teams answer one question about their AI system: **how do we know it actually works?**
+
+I build AI agents and RAG systems for production, with LLM evals that prove they work before real users see them. I come from 7 years of backend and cloud engineering, so I care about what happens after the demo: failures, retries, cost, permissions, and monitoring.
+
+[LinkedIn](https://www.linkedin.com/in/mohsin-sheikhani) · AWS Community Builder
 
 ![Profile views](https://komarev.com/ghpvc/?username=mohsinsheikhani&color=blue)
 
