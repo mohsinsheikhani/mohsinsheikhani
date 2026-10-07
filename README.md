@@ -14,7 +14,7 @@
 
 I build AI agents and RAG systems. Before I write any code, I agree with the team on what a good answer looks like, then measure every change against it, offline first, then on live traffic. Seven years of backend and cloud work means I also care about retries, cost, permissions, and what happens when things break.
 
-### Flagship work
+### 🚀 Flagship work
 
 <sub>Client systems, described without client names.</sub>
 
@@ -22,12 +22,12 @@ I build AI agents and RAG systems. Before I write any code, I agree with the tea
 |:---|:---|:---|
 | **Maintenance triage agent** | LangGraph · FastAPI · Postgres · MCP | Resolves **60–85%** of requests end to end. Human time per ticket **4h → 12m** |
 | **Agent eval harness** | Langfuse · DeepEval · CI | **14 graders** gating every merge. Judges at **95% TPR / 93% TNR** vs human labels |
-| **RAG retrieval** · [case study](LINK) | Qdrant · OpenAI embeddings | Recall@5 **18% → 87%** on a real-user golden set |
+| **RAG retrieval** | Qdrant · OpenAI embeddings | Recall@5 **18% → 87%** on a real-user golden set |
 | **Model selection** | LiteLLM gateway | **15x lower** cost per correct answer across 5 models. Caught a **100x** spend loop |
 | **Semantic caching** | Redis · FastAPI | P95 time to first token **3.2s → 1.3s** on repeat queries |
 
 
-### Stack
+### 💻 Stack
 
 `Python` `TypeScript` `Node.js` `FastAPI` `LangGraph` `Strands Agents` `OpenAI Agents SDK` `Google ADK` `Pydantic AI` `MCP` `A2A` `DSPy` `Qdrant` `Haystack` `Redis` `Postgres` `Hindsight` `Zep` `DeepEval` `RAGAS` `Langfuse` `Temporal` `LiteLLM` `Promptfoo` `Postgres RLS` `RBAC` `Audit logging` `Amazon Bedrock` `Bedrock Agents` `Lambda` `ECS` `Docker`
 
