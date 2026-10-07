@@ -7,7 +7,6 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![AWS Builder](https://img.shields.io/badge/AWS%20Builder-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)](https://builder.aws.com/YOUR-PROFILE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 ![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=mohsinsheikhani&color=4BA79B&style=flat-square)
