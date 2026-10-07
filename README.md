@@ -26,9 +26,10 @@ I build AI agents and RAG systems. Before I write any code, I agree with the tea
 | **Model selection** | LiteLLM gateway | **15x lower** cost per correct answer across 5 models. Caught a **100x** spend loop |
 | **Semantic caching** | Redis · FastAPI | P95 time to first token **3.2s → 1.3s** on repeat queries |
 
+
 ### Stack
 
-`Python` `TypeScript` `LangGraph` `MCP` `FastAPI` `Temporal` `Postgres` `Redis` `Qdrant` `Langfuse` `DeepEval` `LiteLLM` `AWS`
+`Python` `TypeScript` `Node.js` `FastAPI` `LangGraph` `Strands Agents` `OpenAI Agents SDK` `Google ADK` `Pydantic AI` `MCP` `A2A` `DSPy` `Qdrant` `Haystack` `Redis` `Postgres` `Hindsight` `Zep` `DeepEval` `RAGAS` `Langfuse` `Temporal` `LiteLLM` `Promptfoo` `Postgres RLS` `RBAC` `Audit logging` `Amazon Bedrock` `Bedrock Agents` `Lambda` `ECS` `Docker`
 
 <div align="center">
 
