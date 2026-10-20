@@ -32,7 +32,10 @@ Before I write any code, I agree with the team on what a good answer looks like.
 
 ## ✍️ Published Articles
 
-[Cost-Optimize Your AI the Right Way (DEV - Oct 2026)](https://dev.to/mohsinsheikhani/cost-optimize-your-ai-the-right-way-41hk): why the real target is cost per successful outcome, not cost per token. Covers measuring spend, cutting wasted work, and keeping costs in check in production.
+- [Cost-Optimize Your AI the Right Way (DEV - Oct 2026)](https://dev.to/mohsinsheikhani/cost-optimize-your-ai-the-right-way-41hk): why the real target is cost per successful outcome, not cost per token. Covers measuring spend, cutting wasted work, and keeping costs in check in production.
+- [An AI Gateway Is Not a Router. It's a Governance Layer. (DEV - Jul 2026)](https://dev.to/mohsinsheikhani/an-ai-gateway-is-not-a-router-its-a-governance-layer-2j79): four controls in one LiteLLM gateway. Team and org budgets that reject before spend, PII masking with Presidio, routing and failover, and an audit trail in Langfuse. Full config and demos included.
+- [How to Use Claude Code with Qwen models for Free (Linux) (DEV - Jan 2026)](https://dev.to/mohsinsheikhani/how-to-use-claude-code-with-qwen-models-for-free-linux-1fc4): a step-by-step setup that runs Claude Code on Qwen models through Claude Code Router, plus how to fix expired tokens.
+- [Hands-On with Amazon Bedrock Agents: Hotel Booking Assistant (DEV - Jun 2025)](https://dev.to/mohsinsheikhani/hands-on-with-amazon-bedrock-agents-hotel-booking-assistant-with-action-groups-and-knowledge-bases-1j): a booking agent that answers room questions from a RAG knowledge base, checks availability, and books rooms through Lambda and DynamoDB action groups.
 
 ## 🛠️ Tech Stack
 
