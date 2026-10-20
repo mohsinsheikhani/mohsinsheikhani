@@ -30,6 +30,10 @@ I build AI agents and RAG systems that are tested before they ship, and cost you
 ## 🧠 How I Work
 Before I write any code, I agree with the team on what a good answer looks like. Then I measure every change against it, offline first, then on live traffic. Fiver years of backend and cloud work means I also care about retries, cost, permissions, and what happens when things break.
 
+## ✍️ Published Articles
+
+[Cost-Optimize Your AI the Right Way (DEV - Oct 2026)](https://dev.to/mohsinsheikhani/cost-optimize-your-ai-the-right-way-41hk): why the real target is cost per successful outcome, not cost per token. Covers measuring spend, cutting wasted work, and keeping costs in check in production.
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
