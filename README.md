@@ -12,7 +12,7 @@ I build AI agents and RAG systems that are tested before they ship, and cost you
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imohsinsheikhani@gmail.com)
 ![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-`7 years backend & cloud`  ·  `2 years production LLM systems`  ·  `Evals gate every merge`
+`5 years backend & cloud`  ·  `1.5 years production LLM systems`  ·  `Evals gate every merge`
 
 </div>
 
@@ -28,7 +28,7 @@ I build AI agents and RAG systems that are tested before they ship, and cost you
 - **Semantic Caching** (Redis · FastAPI): P95 time to first token dropped from **3.2s to 1.3s** on repeat queries.
 
 ## 🧠 How I Work
-Before I write any code, I agree with the team on what a good answer looks like. Then I measure every change against it, offline first, then on live traffic. Seven years of backend and cloud work means I also care about retries, cost, permissions, and what happens when things break.
+Before I write any code, I agree with the team on what a good answer looks like. Then I measure every change against it, offline first, then on live traffic. Fiver years of backend and cloud work means I also care about retries, cost, permissions, and what happens when things break.
 
 ## 🛠️ Tech Stack
 
